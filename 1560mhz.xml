@@ -44,7 +44,7 @@
         <STATES>
             <STATE ID="0" Enabled="True" Value="400"/>
             <STATE ID="1" Enabled="True" Value="1000"/>
-            <STATE ID="2" Enabled="True" Value="2200"/>
+            <STATE ID="2" Enabled="True" Value="2150"/>
             <STATE ID="3" Enabled="False" Value="0"/>
             <STATE ID="4" Enabled="False" Value="0"/>
             <STATE ID="5" Enabled="False" Value="0"/>
@@ -80,7 +80,7 @@
     </FEATURE>
     <FEATURE ID="17" Enabled="False">
         <STATES>
-            <STATE ID="0" Enabled="True" Value="0"/>
+            <STATE ID="0" Enabled="True" Value="1"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="18" Enabled="False">
